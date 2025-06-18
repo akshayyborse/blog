@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "The Future of Web Development",
+    "content": "# The Future of Web Development\n\nWeb development is evolving at an incredible pace. **Next.js 14** and modern frameworks are revolutionizing how we build applications.\n\n## Key Trends\n\n- **AI Integration**: AI-powered development tools\n- **Performance**: Lightning-fast applications\n- **User Experience**: Immersive, futuristic designs\n\n*The future is now, and it's more exciting than ever!*",
+    "author": "Tech Explorer",
+    "date": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "2", 
+    "title": "Designing for the Future",
+    "content": "## Glassmorphism & Neon Effects\n\nModern UI design embraces **glassmorphism** and neon effects to create stunning, futuristic interfaces.\n\n### Key Elements\n- Transparent backgrounds\n- Blur effects\n- Neon glows\n- Animated components\n\n*Design is not just what it looks like, it's how it feels.*",
+    "author": "Design Futurist",
+    "date": "2024-01-14T15:45:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "The Power of Markdown",
+    "content": "# Writing with Markdown\n\n**Markdown** is the future of content creation. Simple, powerful, and universally supported.\n\n## Why Markdown?\n\n- Easy to learn\n- Platform independent\n- Rich formatting\n- Developer friendly\n\n*Write once, publish everywhere!*",
+    "author": "Content Creator",
+    "date": "2024-01-13T09:15:00.000Z"
+  }
+] 
